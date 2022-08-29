@@ -106,7 +106,9 @@ new_diet %>%
 
 
 
-#------------------------------------------------
+#---------------------------------------------------
+# CODE TO AGGREGATE CSV TABLES FROM X_AS_FOREIGN_ENG
+#---------------------------------------------------
 
 err2 <- read_csv('https://raw.githubusercontent.com/SuperCoolCucumber/R/main/err2.csv')
 
